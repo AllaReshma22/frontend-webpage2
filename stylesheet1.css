@@ -1,0 +1,93 @@
+.container{
+
+width:979px;
+margin: 0 auto;
+
+
+}
+body{
+background-image:url(bg.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position:center;
+}
+.topr{
+background-color:#000066;
+float:right;
+color:white;
+padding:5px;
+margin-top:-10px;
+font-size:80%;
+}
+.wall-feed{
+list-style-type:None;
+background-color:rgba(0,0,0,60%);
+float:right;
+width:939px;
+padding:20px;
+margin-top:30px;
+
+}
+.wall-feed li{
+display:inline;
+padding:10px;
+font-family:Trebuchet MS;
+float:right;
+color: #b3cfe6;
+}
+.wall-feed a{
+	color:#b3cfe6;
+background-color:rgba(0,0,0,0%);text-decoration:none;}
+.hover:hover{
+background-color:#456496;
+}
+h1{
+
+font-size:50px;
+padding:30px;
+margin: 114px auto;
+letter-spacing:2px;
+color:rgba(255,255,255,100%);
+font-family:Trebuchet MS;
+font-weight:normal;
+letter-spacing:5px;
+background-color: rgba(0,0,0,30%);
+text-shadow:2px 2px 5px black;
+}
+.logo{
+
+    height: 158px;
+    margin-left:40px;
+    position: absolute;
+    width: 224px;
+}
+.below{
+width:955px;
+float:right;
+background-color:rgba(0,0,40,70%);
+padding:5px;
+color:white;margin-left:162px;margin-top:20px;width:962px;text-align:center;
+}
+.our-services-wall-feed{
+float:left;
+background-color:rgba(0,0,0,60%);
+width:975px;
+}
+p{
+	color:white;font-size:14px;font-family:Trebuchet MS;margin-left:10px;line-height:1.5;
+}
+.points{
+	line-height:1;color:white;font-size:14px;font-family:Trebuchet MS;margin-left:20px;
+}
+
+u{
+color:#b3cfe6;}
+.request{
+	width:600px;background-color:rgb(46, 60, 89);
+}
+.left-part{
+height:50px;
+}
+
+
